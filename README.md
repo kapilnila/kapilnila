@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm [Kapil Nila]
 
 🎓 BTech in Electrical Engineering, IIT Ropar  
-💻 Aspiring Full-Stack Developer | Python • Django • React  
+💻 Full-Stack Developer | Python • Django • React  
 📚 Currently learning: REST APIs, React Hooks, OAuth Integration  
 🎯 Goal: To become a Software Development Engineer (SDE) at a top tech company
 
@@ -21,7 +21,7 @@ I'm currently focused on building full-stack projects using Django for the backe
 - **Backend**: Django, FastAPI (basics)
 - **Database**: SQLite, PostgreSQL (in progress)
 - **Tools**: Git, GitHub, VS Code, Postman
-- **Version Control & Deployment**: GitHub
+- **Version Control & Deployment**: GitHub, Render, Vercel
 
 ---
 

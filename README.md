@@ -2,8 +2,8 @@
 
 🎓 BTech in Electrical Engineering, IIT Ropar  
 💻 Full-Stack Developer | Python • Django • React  
-📚 Currently learning: REST APIs, React Hooks, OAuth Integration  
-🎯 Goal: To become a Software Development Engineer (SDE) at a top tech company
+📚 Currently working on: REST APIs, React Hooks, OAuth Integration  
+🎯 Goal: To be a Software Development Engineer (SDE) at a top tech company
 
 ---
 
@@ -34,14 +34,14 @@ A clean, responsive personal website showcasing my resume, projects, and contact
 
 ---
 
-### 🔹 [Django To-Do App](https://github.com/yourusername/django-todo-app)
+### 🔹 [Django To-Do App](https://github.com/kapilnila/django-todo-app)
 Simple to-do web app with login/logout, task creation, and completion tracking.  
 **Tech Used**: Django, SQLite  
 🗂 _CRUD operations and user authentication_
 
 ---
 
-### 🔹 [Weather App](https://github.com/yourusername/weather-api-app)
+### 🔹 [Weather App](https://github.com/kapilnila/weather-api-app)
 Pulls real-time weather data from an external API and displays forecasts.  
 **Tech Used**: Python, Requests, OpenWeatherMap API  
 🌐 _Great example of using APIs in backend logic_
@@ -53,6 +53,7 @@ Pulls real-time weather data from an external API and displays forecasts.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kapil-nila-048a6a148)
 - 📧 Email: nilakapil1@gmail.com
+- phone no: 9834348458
 - 🌐 Website:--
 
 

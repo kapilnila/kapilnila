@@ -1,9 +1,8 @@
 # 👋 Hey there! I'm [Kapil Nila]
 
 🎓 BTech in Electrical Engineering, IIT Ropar  
-💻 Full-Stack Developer | Python • Django • React  
-📚 Currently working on: REST APIs, React Hooks, OAuth Integration  
-🎯 Goal: To be a Software Development Engineer (SDE) at a top tech company
+💻 Full-Stack Developer | Python • Django • React • AWS • PostgreSQL
+📚 Currently working on: REST APIs, React Hooks, OAuth Integration, FastAPI, PostgreSQL, AWS  
 
 ---
 
@@ -17,11 +16,11 @@ I'm currently focused on building full-stack projects using Django for the backe
 ## 🛠 Tech Stack
 
 - **Languages**: Python, HTML5, CSS3, JavaScript (ES6)
-- **Frontend**: React (Hooks, Router), Bootstrap, Tailwind CSS (learning)
-- **Backend**: Django, FastAPI (basics)
-- **Database**: SQLite, PostgreSQL (in progress)
-- **Tools**: Git, GitHub, VS Code, Postman
-- **Version Control & Deployment**: GitHub, Render, Vercel
+- **Frontend**: React (Hooks, Router), Bootstrap, Tailwind CSS 
+- **Backend**: Django, FastAPI ,RestAPI
+- **Database**: SQLite, PostgreSQL , Mongodb
+- **Tools**: Git, GitHub, VS Code, Postman , PgAdmin  
+- **Version Control & Deployment**: GitHub, Render, Vercel , AWS
 
 ---
 
@@ -29,7 +28,7 @@ I'm currently focused on building full-stack projects using Django for the backe
 
 ### 🔹 [Portfolio Website](https://github.com/kapilnila/portfolio/blob/main/Kapil_SDE_Resume.pdf)
 A clean, responsive personal website showcasing my resume, projects, and contact info.  
-**Tech Used**: HTML, CSS, JavaScript  
+**Tech Used**: HTML, CSS, JavaScript , latex pdf  
 📌 _Deployed using GitHub Pages_
 
 ---
@@ -54,7 +53,7 @@ Pulls real-time weather data from an external API and displays forecasts.
 - 💼 [LinkedIn](https://www.linkedin.com/in/kapil-nila-048a6a148)
 - 📧 Email: nilakapil1@gmail.com
 - phone no: 9834348458
-- 🌐 Website:--
+- 🌐 ### [Leetcode](https://leetcode.com/u/kapilnila/)
 
 
 

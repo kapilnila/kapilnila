@@ -112,7 +112,7 @@ text
 </div>
 
 **🟢 Available for:**  
-**SDE-1/SDE-2** • **Backend/Full-Stack** • **Python/Django/FastAPI** • **AWS**
+**SDE-1/Software Engineer** • **Backend/Full-Stack** • **Python/Django/FastAPI** • **AWS**
 
 ---
 

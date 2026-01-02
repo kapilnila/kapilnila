@@ -6,7 +6,7 @@
 *Python • Django • FastAPI • React • AWS • PostgreSQL*
 
 ![IIT Ropar](https://img.shields.io/badge/IIT%20Ropar-BTech%20EE-orange?style=flat&logo=iit&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems-brightgreen?style=flat&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-brightgreen?style=flat&logo=leetcode&logoColor=white)
 
 </div>
 

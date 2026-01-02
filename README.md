@@ -53,7 +53,7 @@ Pulls real-time weather data from an external API and displays forecasts.
 - 💼 [LinkedIn](https://www.linkedin.com/in/kapil-nila-048a6a148)
 - 📧 Email: nilakapil1@gmail.com
 - phone no: 9834348458
-- 🌐 ### [Leetcode](https://leetcode.com/u/kapilnila/)
+- 🌐  [Leetcode](https://leetcode.com/u/kapilnila/)
 
 
 

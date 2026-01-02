@@ -27,7 +27,7 @@ I'm currently focused on building full-stack projects using Django for the backe
 
 ## 🚀 Projects
 
-### 🔹 [Portfolio Website](https://github.com/yourusername/portfolio-site)
+### 🔹 [Portfolio Website](https://github.com/kapilnila/portfolio/blob/main/Kapil_SDE_Resume.pdf)
 A clean, responsive personal website showcasing my resume, projects, and contact info.  
 **Tech Used**: HTML, CSS, JavaScript  
 📌 _Deployed using GitHub Pages_

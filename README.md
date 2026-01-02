@@ -68,7 +68,6 @@ Core Features:
 ✅ Focus: Medium (70%) - Hard (20%)
 ✅ Topics: Arrays, Trees, Graphs, DP, Sliding Window
 
-text
 
 ### System Design Experience
 - **HLD**: Load Balancers, Caching (Redis), Database Sharding
@@ -97,7 +96,6 @@ text
 ✅ 100+ LeetCode mediums solved
 ✅ React apps with custom hooks & optimization
 
-text
 
 ---
 

@@ -64,7 +64,7 @@ Core Features:
 ## 📊 **Problem Solving & System Design**
 
 ### LeetCode Stats
-✅ Solved: 150+ problems
+✅ Solved: 250+ problems
 ✅ Focus: Medium (70%) - Hard (20%)
 ✅ Topics: Arrays, Trees, Graphs, DP, Sliding Window
 

@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm **Kapil Nila**
 
@@ -111,6 +111,143 @@ Core Features:
 
 **🟢 Available for:**  
 **SDE-1/Software Engineer** • **Backend/Full-Stack** • **Python/Django/FastAPI** • **AWS**
+# Hi, I'm Kapil 👋
+
+**Software Engineer | Backend & AI Products | DSA Enthusiast**
+
+I’m an IIT Ropar graduate building scalable backend systems, real-time apps, and AI-powered tools.
+Currently focused on strengthening system design, distributed systems, and shipping ambitious projects in public.
+
+---
+
+## 🚀 What I'm Focused On (2026)
+
+* Building AI + full-stack products
+* Preparing for top Software Developer roles
+* Deepening backend & system design skills
+* Solving Data Structures & Algorithms daily
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+
+* Python • C++ • JavaScript • TypeScript • SQL
+* HTML • CSS • Bash
+
+**Backend**
+
+* FastAPI • Django • REST APIs
+* WebSockets • JWT Auth • OAuth
+* PostgreSQL • MySQL • Redis (learning)
+
+**Frontend**
+
+* React • Angular
+
+**Cloud & DevOps**
+
+* AWS • Azure (basics)
+* Docker • CI/CD • Linux • Git
+
+---
+
+## 💻 Data Structures & Algorithms
+
+* Solved **250+ LeetCode problems**
+* Solved **150+ GeeksforGeeks problems**
+* Strong in:
+
+  * Graphs
+  * Dynamic Programming
+  * Trees
+  * Greedy Algorithms
+
+I practice DSA consistently to strengthen problem-solving and interview readiness.
+
+---
+
+## 🌟 Projects I'm Building
+
+These projects represent the next phase of my journey — building ambitious products and learning in public.
+
+---
+
+### 🥷 Wuxia World Builder (AI Story Platform)
+
+An AI-powered platform for generating Wuxia stories, characters, and worldbuilding.
+
+**Learning Goals**
+
+* AI API integration
+* Backend architecture
+* Building full-stack products from scratch
+
+Tech: FastAPI • React • PostgreSQL
+
+---
+
+### ✍️ AI Prompt Studio
+
+A SaaS-style workspace to create, test, and manage reusable AI prompts.
+
+**Planned Features**
+
+* Prompt library & templates
+* User authentication & dashboards
+* Experiment tracking & iteration
+
+Tech: FastAPI • React • PostgreSQL
+
+---
+
+### 🧠 Pair Programmer From History
+
+An AI coding assistant where users can code with famous programmers from history.
+
+Examples:
+
+* Alan Turing debugging sessions
+* Donald Knuth explaining algorithms
+* Grace Hopper reviewing code
+
+Tech: Python • FastAPI • React
+
+---
+
+## 🏢 Experience
+
+**Backend Engineer Intern — Bluestock Fintech**
+
+* Built FastAPI/Django services for real-time stock analytics
+* Implemented WebSockets for live market streaming
+* Improved performance by **35%** through caching & query optimization
+
+**Full Stack Developer Intern — Unified Mentors**
+
+* Improved e-commerce performance by **25%**
+* Built reusable component library (20+ components)
+
+---
+
+## 🎓 Education & Achievements
+
+* BTech, Electrical Engineering — **IIT Ropar**
+* JEE Advanced AIR 3920 (Top 2%)
+* NTSE National Scholar
+* Google Cloud Vertex AI Prompt Design
+
+---
+
+## 🌱 Learning in Public
+
+This GitHub documents my journey toward becoming a top-tier software engineer and building real-world products.
+
+---
+
+⭐ Always building. Always improving.
+
 
 ---
 
@@ -120,4 +257,4 @@ Core Features:
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=kapilnila&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilnila&layout=compact&theme=radical&hide_border=true)
-
+ -->

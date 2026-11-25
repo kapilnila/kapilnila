@@ -6,6 +6,7 @@ Python • FastAPI • PostgreSQL • Distributed Systems • RAG • AI Infrast
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3500&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Backend+%26+Distributed+Systems;AI+Infrastructure+%26+RAG;Concurrency+%7C+Reliability+%7C+System+Design;Building+SkyPipe" alt="Backend, distributed systems and AI infrastructure" />   
 📍 Bengaluru, India
 </div>🚀 About Me
+
 I'm a software engineer and IIT Ropar graduate working at the intersection of backend engineering, distributed systems, and applied AI.
 
 My professional experience includes enterprise RAG systems, semantic retrieval, intent routing, and AI-assisted financial reconciliation. My independent projects explore a different set of challenges: how to preserve correctness under concurrency, design retry-safe APIs, recover from failures, and make intelligent systems easier to debug.
@@ -49,6 +50,7 @@ A Python SDK and dashboard prototype for decision-level observability in multi-s
 Engineering focus: SDK design, instrumentation, structured execution context, and AI observability.
 
 Stack: Python • FastAPI • React
+
 ⚔️ Wuxia Cultivation Platform
 A full-stack gamified social platform with transactional user progression, rankings, clans, and community features.
 - Uses PostgreSQL row-level locks to serialize concurrent XP awards and daily login updates, with server-enforced activity limits.

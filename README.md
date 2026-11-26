@@ -19,7 +19,9 @@ I'm a software engineer and IIT Ropar graduate working at the intersection of ba
 My professional experience includes enterprise RAG systems, semantic retrieval, intent routing, and AI-assisted financial reconciliation. My independent projects explore a different set of challenges: how to preserve correctness under concurrency, design retry-safe APIs, recover from failures, and make intelligent systems easier to debug.
 
 I'm currently building SkyPipe — AI Knowledge OS, a multi-tenant knowledge platform that brings together workspace management, query routing, AI orchestration, semantic retrieval, and document ingestion.
+
 🏗️ Featured Engineering Projects
+
 🌐 Distributed Spatial ID System
 A distributed system for generating globally unique, approximately time-sortable 128-bit identifiers for spatial vehicle events, subject to documented worker ownership and recovery assumptions.
 Engineering highlights
@@ -39,6 +41,7 @@ Duplicate IDs observed in measured scenarios	0
 Note: Results are from documented development runs, not production capacity guarantees. The CLI benchmark is in-memory; the API benchmark includes durable persistence. See the repository verification report for conditions and limitations.
 
 Stack: Python • FastAPI • PostgreSQL • SQLite • React • TypeScript • Docker • Nginx • Prometheus • Toxiproxy
+
 💰 Bank Reconciliation Engine
 A modular transaction matching engine for reconciling bank statements against accounting-system exports through deterministic, heuristic, and AI-assisted matching.
 - Multi-format ingestion with schema detection and transaction normalization.
@@ -46,6 +49,7 @@ A modular transaction matching engine for reconciling bank statements against ac
 - Candidate indexing using amount buckets, reference clusters, and description-token inverted indices.
 - AI-assisted reconciliation for remaining unmatched transactions, rather than invoking an LLM for every record.
 Engineering focus: matching algorithms, candidate-space reduction, data normalization, and selective AI escalation.
+
 🔍 X-Ray — Decision Debugger
 A Python SDK and dashboard prototype for decision-level observability in multi-step systems such as LLM workflows, ranking engines, and rule-based pipelines.
 - Captures structured inputs, outputs, explanations, and candidate evaluations at each pipeline step.
@@ -54,6 +58,7 @@ A Python SDK and dashboard prototype for decision-level observability in multi-s
 Engineering focus: SDK design, instrumentation, structured execution context, and AI observability.
 
 Stack: Python • FastAPI • React
+
 ⚔️ Wuxia Cultivation Platform
 A full-stack gamified social platform with transactional user progression, rankings, clans, and community features.
 - Uses PostgreSQL row-level locks to serialize concurrent XP awards and daily login updates, with server-enforced activity limits.
@@ -65,24 +70,28 @@ Engineering focus: transactional consistency, concurrency, authentication, async
 Stack: Django REST Framework • Next.js • PostgreSQL • Supabase • Celery • Docker • GitHub Actions
 
 Note: Hosted deployment and CI results require separate verification; the repository documents those steps and current limitations.
+
 🛡️ Trusted AI Governance Platform
 A prototype backend that treats LLM output as untrusted and applies explicit risk and policy checks before returning a response.
 - Risk detection, rule-based explanations, trust scoring, and selective source grounding.
 - Policy actions to allow, warn, or restrict responses, with in-memory audit logging.
 - Modular FastAPI architecture with a pluggable LLM integration.
 Engineering focus: AI reliability, guardrails, policy enforcement, and auditability.
+
 👨‍💻 Real-Time Pair Programming Platform
 A collaborative code editor prototype with live room-based synchronization, persistent editor state, and mocked AI autocomplete.
 - Asynchronous FastAPI backend with WebSocket connections and room management.
 - PostgreSQL persistence through async SQLAlchemy.
 - React and Redux Toolkit frontend with debounced autocomplete requests.
 Stack: Python • FastAPI • WebSockets • PostgreSQL • React • TypeScript
+
 🤖 AI Knowledge Inbox
 A compact RAG application for storing notes and web content, retrieving relevant passages, and answering questions with source snippets.
 - Ingestion, overlapping document chunks, embeddings at write time, and cosine-similarity retrieval.
 - Explicit separation of API routes, services, and persistence.
 - Documents the trade-off between a transparent SQLite-based prototype and an indexed vector store at scale.
 Stack: Python • FastAPI • React • SQLite • OpenAI APIs
+
 🌌 SkyPipe — AI Knowledge OS
 A multi-tenant AI knowledge platform built around five architectural layers, with configurable LLM providers and cited answers.
 Engineering highlights
@@ -100,16 +109,22 @@ flowchart TD
     P --> A[Cited answers and refinement]
 ```
 Layer	Responsibility
+
 ☁️ Sky	Multi-tenant workspace management
+
 💡 SkyLight	Query routing and intent classification
+
 🔗 SkyPipe	AI orchestration and communication
+
 🌳 SkyRoot	Knowledge retrieval and vector search
+
 🌱 SkySeed	Document and web ingestion
 
 
 Stack: Python • FastAPI • Async SQLAlchemy • PostgreSQL • pgvector • Docker Compose • Nginx • Stripe
 
 Status: Under active development in a private repository. Architecture and implementation details are based on my current project description.
+
 💼 Professional Experience
 Software Engineer — AvancerPI
 Mar 2026 – Present · Bengaluru, India
@@ -117,12 +132,14 @@ Mar 2026 – Present · Bengaluru, India
 - Designed semantic chunking with transformer embeddings to improve retrieval quality for downstream query answering.
 - Built internal SDKs and an intent classifier to route queries and simplify developer integration.
 - Developed an infrastructure platform unifying integrations across Nutanix, VMware, and SUSE; automated operational workflows with Python and shell scripts.
+  
 AI & Backend Developer — ABM Nexttech
 Feb 2026 – Jul 2026 · Entrepreneurial experience · Remote
 - Built a RAG-based transaction matching service combining vector similarity, rule-based heuristics, and Gemini/Anthropic API calls, reducing unmatched transactions by 90%.
 - Developed a hybrid matching pipeline using fuzzy logic and embedding similarity for structured transaction data.
 - Integrated FastAPI and NestJS services with PostgreSQL and containerized backend services using Docker.
 - Owned cloud deployment from development through production rollout.
+  
 ⚡ Tech Stack
 Languages
 Python · C++ · TypeScript · JavaScript · SQL · Bash
@@ -146,6 +163,7 @@ Docker · Linux · AWS · Nginx · GitHub Actions · Prometheus
 - Backend infrastructure: API design, transactional databases, asynchronous processing, observability, and failure testing.
 - AI infrastructure: retrieval, agent communication, orchestration, evaluation, and reliable LLM integration.
 - Developer tooling: SDKs, debugging tools, and platforms that simplify complex workflows.
+  
 🏆 Education & Achievements
 - 🎓 B.Tech, Electrical Engineering — Indian Institute of Technology (IIT) Ropar (2025)
 - 🥇 JEE Advanced — All India Rank 3920 (Top 2%) · JEE Main — Top 1%
@@ -153,11 +171,13 @@ Docker · Linux · AWS · Nginx · GitHub Actions · Prometheus
 - ☁️ Google Cloud — Prompt Design in Vertex AI
 - 📜 McKinsey Forward Program
 - 💻 450+ DSA problems solved
+  
 🎯 What I'm Building Next
 - Prepare SkyPipe for an MVP release and document its architecture, communication contracts, and failure semantics.
 - Explore multi-agent interoperability and reliable knowledge exchange.
 - Extend distributed systems projects with deeper testing, performance analysis, and operational documentation.
 - Contribute to open-source infrastructure and developer tooling.
+  
 📈 GitHub Stats
 <div align="center">
   <p>
